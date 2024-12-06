@@ -3139,3 +3139,135 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [22:37:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:ootsutsukiloot
 [22:37:55] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 561 advancements
 [22:37:55] [Server thread/INFO] [FTB Library]: Reloaded server in 0ms
+[22:38:14] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 180 times.
+
+[22:38:14] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 180 times.
+
+[22:38:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [sebastt22: Set own game mode to Survival Mode]
+[22:38:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:39:04] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 185 times.
+
+[22:39:04] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 185 times.
+
+[22:39:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:39:54] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 190 times.
+
+[22:39:54] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 190 times.
+
+[22:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:40:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:40:44] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 195 times.
+
+[22:40:44] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 195 times.
+
+[22:41:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:41:34] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 200 times.
+
+[22:41:34] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 200 times.
+
+[22:41:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:42:24] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 205 times.
+
+[22:42:24] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 205 times.
+
+[22:42:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:42:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:43:14] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 210 times.
+
+[22:43:14] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 210 times.
+
+[22:43:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:04] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 215 times.
+
+[22:44:04] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 215 times.
+
+[22:44:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:44:54] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 220 times.
+
+[22:44:54] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 220 times.
+
+[22:44:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was killed by Rogue Ninja using ninjutsu
+[22:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:45:44] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 225 times.
+
+[22:45:44] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 225 times.
+
+[22:45:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Set score of InitialJutsu for player sebastt22 to 1]
+[22:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked 'narutomodaddon:njreward' and all descendants (2 total revoked) from sebastt22]
+[22:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:45:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:45:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has reached the goal [Learned First Jutsu]
+[22:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:46:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:46:34] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 230 times.
+
+[22:46:34] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 230 times.
+
+[22:46:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was shot by Skeleton
+[22:46:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:46:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:47:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:47:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:47:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:47:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:47:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:47:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:24] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 235 times.
+
+[22:47:24] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 235 times.
+
+[22:47:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:47:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:47:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:14] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 240 times.
+
+[22:48:14] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 240 times.
+

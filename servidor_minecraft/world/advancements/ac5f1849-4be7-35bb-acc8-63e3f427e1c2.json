@@ -1,19 +1,25 @@
 {
+  "narutomod:learned_1st_jutsu": {
+    "criteria": {
+      "learned_1st_jutsu": "2024-12-06 22:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-06 22:33:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-06 22:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-06 22:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-06 22:31:56 +0000"
     },
     "done": true
   },
@@ -41,15 +47,21 @@
     },
     "done": true
   },
+  "narutomodaddon:windjutsuinit": {
+    "criteria": {
+      "ninjutsuinit": "2024-12-06 22:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-06 22:30:37 +0000"
     },
     "done": true
   },
-  "narutomodaddon:chakra_blocked": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "playerHurt": "2024-12-06 22:17:51 +0000"
+      "has_double_plant": "2024-12-06 22:46:56 +0000"
     },
     "done": true
   },
@@ -65,15 +77,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-06 22:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
     },
     "done": true
   },
@@ -133,15 +145,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-06 22:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-06 22:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-06 22:31:56 +0000"
     },
     "done": true
   },
@@ -217,15 +229,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 22:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
     },
     "done": true
   },
@@ -247,27 +259,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2024-12-06 22:35:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-06 22:29:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "has_yellow_flower": "2024-12-06 22:32:22 +0000"
+      "entered_water": "2024-12-06 22:35:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2024-12-06 22:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-06 22:32:22 +0000"
     },
     "done": true
   },
@@ -345,7 +357,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2024-12-06 22:46:58 +0000",
+      "skeleton": "2024-12-06 22:46:48 +0000",
       "zombie": "2024-12-06 22:27:01 +0000",
+      "spider": "2024-12-06 22:46:40 +0000",
       "creeper": "2024-12-06 22:33:53 +0000"
     },
     "done": false
@@ -362,17 +377,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2024-12-06 22:30:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -392,15 +407,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "narutomodaddon:ninjutsuinit": {
     "criteria": {
-      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
+      "ninjutsuinit": "2024-12-06 22:45:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-06 22:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
     },
     "done": true
   },
@@ -416,15 +437,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-06 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 22:36:13 +0000"
     },
     "done": true
   },
@@ -470,15 +491,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:31:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-06 22:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:31:54 +0000"
     },
     "done": true
   },
