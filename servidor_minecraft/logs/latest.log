@@ -1,0 +1,398 @@
+[22:07:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:07:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:07:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:07:56] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:07:56] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:07:56] [main/INFO] [FML]: Searching /workspaces/server-de-naruto/servidor_minecraft/./mods for mods
+[22:07:56] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in JutsuAddon v1.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:07:56] [main/WARN] [FML]: The coremod net.decentstudio.jutsuaddon.hooklib.hooks.NarutoAddonHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:07:56] [main/WARN] [FML]: The coremod NarutoAddonHookLoader (net.decentstudio.jutsuaddon.hooklib.hooks.NarutoAddonHookLoader) is not signed!
+[22:07:56] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RinneganAddon v1.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:07:56] [main/WARN] [FML]: The coremod net.decentstudio.rinneganaddon.hooklib.hooks.NarutoAddonHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:07:56] [main/WARN] [FML]: The coremod NarutoAddonHookLoader (net.decentstudio.rinneganaddon.hooklib.hooks.NarutoAddonHookLoader) is not signed!
+[22:07:56] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SealsAddon v1.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:07:56] [main/WARN] [FML]: The coremod net.decentstudio.sealsaddon.hooklib.hooks.NarutoAddonHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:07:56] [main/WARN] [FML]: The coremod NarutoAddonHookLoader (net.decentstudio.sealsaddon.hooklib.hooks.NarutoAddonHookLoader) is not signed!
+[22:07:56] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SharinganAddon v1.0.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:07:56] [main/WARN] [FML]: The coremod net.decentstudio.narutoaddon.hooklib.hooks.NarutoAddonHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:07:56] [main/WARN] [FML]: The coremod NarutoAddonHookLoader (net.decentstudio.narutoaddon.hooklib.hooks.NarutoAddonHookLoader) is not signed!
+[22:07:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:07:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:07:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:07:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:07:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:07:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.jutsuaddon.hooklib.minecraft.SecondaryTransformerHook
+[22:07:57] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.jutsuaddon.hooklib.hooks.HookProcedureOnEntitySpawn
+[22:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.minecraft.SecondaryTransformerHook
+[22:07:57] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureSpecialJutsu1OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureSpecialJutsu2OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureSpecialJutsu3OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureSpecialJutsu4OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureSpecialJutsu5OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookWorld
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookRenderGlobal
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureUtils
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureWhiteZetsuFleshFoodEaten
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureAmaterasu
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureSusanoo
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookEntitySusanooClothed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookEntitySusanooSkeleton
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureUchihaBodyTickEvent
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureKamuiJikukanIdo
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureOuterPath
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureChibakuTenseiOnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureEntityGedoStatue
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureKagutsuchiSwordToolInUseTick
+[22:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.sealsaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.sealsaddon.hooklib.minecraft.SecondaryTransformerHook
+[22:07:57] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[22:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.minecraft.SecondaryTransformerHook
+[22:07:57] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookProcedureSpecialJutsu1OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookProcedureSpecialJutsu2OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookProcedureSpecialJutsu3OnKeyPressed
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookWorld
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookRenderGlobal
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookProcedureUtils
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookProcedureSharinganHelmetTickEvent
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container net.decentstudio.narutoaddon.hooklib.hooks.HookItemMangekyoSharingan
+[22:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.sealsaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.sealsaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 4 ms
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.sealsaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 4 ms
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 4 ms
+[22:07:57] [main/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 4 ms
+[22:07:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:07:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:07:58] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.world.World
+[22:07:58] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:warning:25]: [WARNING] Can not find target method of hook AsmHook: net.minecraft.world.World#onGetCloudColour(F) -> net.decentstudio.narutoaddon.hooklib.hooks.HookWorld#onGetCloudColour(Lnet/minecraft/world/World;F)Lnet/minecraft/util/math/Vec3d;, ReturnCondition=ON_NOT_NULL, ReturnValue=HOOK_RETURN_VALUE, InjectorFactory: net.decentstudio.narutoaddon.hooklib.asm.HookInjectorFactory$MethodEnter, CreateMethod = false
+[22:07:58] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:warning:25]: [WARNING] Can not find target method of hook AsmHook: net.minecraft.world.World#getSkyColor(Lnet/minecraft/entity/Entity;F) -> net.decentstudio.narutoaddon.hooklib.hooks.HookWorld#getSkyColor(Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;F)Lnet/minecraft/util/math/Vec3d;, ReturnCondition=ON_NOT_NULL, ReturnValue=HOOK_RETURN_VALUE, InjectorFactory: net.decentstudio.narutoaddon.hooklib.asm.HookInjectorFactory$MethodEnter, CreateMethod = false
+[22:07:58] [main/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:warning:25]: [WARNING] Can not find target method of hook AsmHook: net.minecraft.world.World#getFogColor(F) -> net.decentstudio.narutoaddon.hooklib.hooks.HookWorld#getFogColor(Lnet/minecraft/world/World;F)Lnet/minecraft/util/math/Vec3d;, ReturnCondition=ON_NOT_NULL, ReturnValue=HOOK_RETURN_VALUE, InjectorFactory: net.decentstudio.narutoaddon.hooklib.asm.HookInjectorFactory$MethodEnter, CreateMethod = false
+[22:07:58] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:08:00] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:08:00] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:08:00] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:08:00] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:08:01] [Server thread/INFO] [FML]: Searching /workspaces/server-de-naruto/servidor_minecraft/./mods for mods
+[22:08:01] [Server thread/INFO] [FML]: Mod narutoorigin is missing the required element 'name'. Substituting narutoorigin
+[22:08:01] [Server thread/INFO] [FML]: Mod jigendanretsu is missing the required element 'name'. Substituting jigendanretsu
+[22:08:01] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[22:08:01] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
+[22:08:01] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:08:01] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, narutomod, anbubingobook, animalnet, ftblib, ftbquests, itemfilters, jei, jutsuaddon, kabutoaddon, rerollthingy, narutomodaddononero, narutomodaddon, ratjaseyes, narutoorigin, jigendanretsu, patchouli, rinneganaddon, sealsaddon, sharinganaddon, travelersbackpack] at CLIENT
+[22:08:01] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, narutomod, anbubingobook, animalnet, ftblib, ftbquests, itemfilters, jei, jutsuaddon, kabutoaddon, rerollthingy, narutomodaddononero, narutomodaddon, ratjaseyes, narutoorigin, jigendanretsu, patchouli, rinneganaddon, sealsaddon, sharinganaddon, travelersbackpack] at SERVER
+[22:08:02] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.item.ItemMangekyoSharingan
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.item.ItemMangekyoSharingan#getAmaterasuChakraUsage(Lnet/minecraft/entity/EntityLivingBase;)
+[22:08:02] [Server thread/INFO] [FML]: Found 1592 ObjectHolder annotations
+[22:08:02] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:08:02] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:08:02] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:08:02] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureWhiteZetsuFleshFoodEaten
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureWhiteZetsuFleshFoodEaten#executeProcedure(Ljava/util/Map;)
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu4OnKeyPressed
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu4OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:02] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureKamuiJikukanIdo
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureKamuiJikukanIdo#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.entity.EntityGedoStatue$EntityCustom
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.entity.EntityGedoStatue$EntityCustom#updatePassenger(Lnet/minecraft/entity/Entity;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSharinganHelmetTickEvent
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSharinganHelmetTickEvent#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu2OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu2OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu2OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu2OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu5OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu5OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureOuterPath
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureOuterPath#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureUchihaBodyTickEvent
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureUchihaBodyTickEvent#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[22:08:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureUtils
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureUtils#isWearingMangekyo(Lnet/minecraft/entity/EntityLivingBase;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureUtils
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureUtils#isWearingMangekyo(Lnet/minecraft/entity/EntityLivingBase;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureKagutsuchiSwordToolInUseTick
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureKagutsuchiSwordToolInUseTick#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu3OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu3OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu3OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu3OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureOnEntitySpawn
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.jutsuaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureOnEntitySpawn#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureChibakuTenseiOnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureChibakuTenseiOnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureAmaterasu
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureAmaterasu#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu1OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu1OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSpecialJutsu1OnKeyPressed
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSpecialJutsu1OnKeyPressed#executeProcedure(Ljava/util/Map;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.procedure.ProcedureSusanoo
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.procedure.ProcedureSusanoo#upgrade(Lnet/minecraft/entity/player/EntityPlayer;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.narutomod.entity.EntitySusanooClothed$EntityCustom
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.entity.EntitySusanooClothed$EntityCustom#collideWithEntity(Lnet/minecraft/entity/Entity;)
+[22:08:03] [Server thread/INFO] [STDOUT]: [net.decentstudio.rinneganaddon.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.narutomod.entity.EntitySusanooClothed$EntityCustom#collideWithEntity(Lnet/minecraft/entity/Entity;)
+[22:08:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:08:03] [Server thread/INFO] [animalnet]: Starting PreInitialization...
+[22:08:03] [Server thread/INFO] [animalnet]: PreInitialization finished!
+[22:08:04] [Server thread/INFO] [STDOUT]: [com.tyler.narutoorigin.config.NarutoOriginsConfig:init:109]: Loaded Config - Is Forge Server: true
+[22:08:04] [Server thread/INFO] [STDOUT]: [com.tyler.narutoorigin.config.NarutoOriginsConfig:init:110]: Loaded Config - TailedBeast Probability: 0.07
+[22:08:04] [Server thread/INFO] [STDOUT]: [com.tyler.narutoorigin.config.NarutoOriginsConfig:init:111]: Loaded Config - Allow Cheat Clan: true
+[22:08:04] [Server thread/INFO] [STDOUT]: [net.decentstudio.narutoaddon.registry.DimensionsRegistry:registerDimensions:17]: Registering dimensions..
+[22:08:04] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[22:08:04] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[22:08:04] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[22:08:04] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[22:08:04] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[22:08:04] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[22:08:04] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:04] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:04] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:04] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:04] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:04] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:04] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:04] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:04] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:08:04] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:08:04] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:08:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:08:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[22:08:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:08:05] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:08:05] [Server thread/ERROR] [FML]: Parsing error loading recipe narutomodaddononero:recipe_killer_bi_sword
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[22:08:05] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:05] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:05] [Server thread/INFO] [animalnet]: Starting Initialization...
+[22:08:05] [Server thread/INFO] [animalnet]: Initialization finished!
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: java.lang.NoSuchFieldException: maximumValue
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.Class.getDeclaredField(Class.java:2070)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.ArmorModifier.setAttributeMaxValue(ArmorModifier.java:48)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.ArmorModifier.init(ArmorModifier.java:41)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.KabutoaddonMod.lambda$init$1(KabutoaddonMod.java:69)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.KabutoaddonMod.init(KabutoaddonMod.java:69)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.Thread.run(Thread.java:750)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: java.lang.NoSuchFieldException: maximumValue
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.Class.getDeclaredField(Class.java:2070)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.ArmorModifier.setAttributeMaxValue(ArmorModifier.java:48)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.ArmorModifier.init(ArmorModifier.java:41)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.KabutoaddonMod.lambda$init$1(KabutoaddonMod.java:69)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.KabutoaddonMod.init(KabutoaddonMod.java:69)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.Thread.run(Thread.java:750)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: java.lang.NoSuchFieldException: maximumValue
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.Class.getDeclaredField(Class.java:2070)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.ArmorModifier.setAttributeMaxValue(ArmorModifier.java:48)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.ArmorModifier.init(ArmorModifier.java:41)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.KabutoaddonMod.lambda$init$1(KabutoaddonMod.java:69)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.mcreator.kabutoaddon.KabutoaddonMod.init(KabutoaddonMod.java:69)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[22:08:05] [Server thread/INFO] [STDERR]: [net.mcreator.kabutoaddon.ArmorModifier:setAttributeMaxValue:52]: 	at java.lang.Thread.run(Thread.java:750)
+[22:08:05] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:08:05] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:08:05] [Server thread/INFO] [animalnet]: Starting PostInitialization...
+[22:08:05] [Server thread/INFO] [animalnet]: PostInitialization finished!
+[22:08:05] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
+[22:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:08:05] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@757bd011)
+[22:08:05] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:ootsutsukiloot
+[22:08:06] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 561 advancements
+[22:08:06] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@757bd011)
+[22:08:06] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@757bd011)
+[22:08:06] [Server thread/INFO] [FML]: Loading dimension 3 (world) (net.minecraft.server.dedicated.DedicatedServer@757bd011)
+[22:08:06] [Server thread/INFO] [FML]: Loading dimension 449 (world) (net.minecraft.server.dedicated.DedicatedServer@757bd011)
+[22:08:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:08:06] [Server thread/INFO] [STDOUT]: [net.narutomod.SaveData$EventHook:onEntityJoinWorld:90]: Loading all save data for mod narutomod
+[22:08:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[22:08:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[22:08:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
+[22:08:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
+[22:08:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 61%
+[22:08:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 78%
+[22:08:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 96%
+[22:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.138s)! For help, type "help" or "?"
+[22:08:13] [Server thread/INFO] [STDOUT]: [com.tyler.narutoorigin.coremod.ClanGiver:saveSpecialPlayerList:78]: Speichern erfolgreich: ./world/Clan/specialPlayerList.json
+[22:08:13] [Server thread/INFO] [STDOUT]: [com.tyler.narutoorigin.coremod.ClanGiver:loadSpecialPlayerList:96]: Liste geladen: []
+[22:08:14] [Server thread/INFO] [FTB Quests]: Loaded 0 chapters, 0 quests, 0 tasks and 0 rewards. In total, 0 objects
+[22:08:14] [Server thread/INFO] [FTB Quests]: File version changed 0 -> 9
+[22:08:14] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:ootsutsukiloot
+[22:08:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 561 advancements
+[22:08:14] [Server thread/INFO] [FTB Library]: Reloaded server in 1ms
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepInventory has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepNinjaXp has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Added new objective 'InitialJutsu' successfully]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepInventory has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepNinjaXp has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepInventory has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepNinjaXp has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepInventory has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepNinjaXp has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepInventory has been updated to true]
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Game rule keepNinjaXp has been updated to true]
+[22:08:14] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:08:14] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:08:14] [Server thread/INFO] [FML]: Unloading dimension 449
+[22:13:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped sebastt22}
+[22:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped sebastt22
+[22:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Banned player sebastt22
+[22:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unbanned player sebastt22
+[22:14:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Banned player sebastt}
+[22:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Banned player sebastt22}
+[22:17:17] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:17:17] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,animalnet@v1.12.2 b3,ftbquests@1202.9.0.15,rerollthingy@1.0.0,torohud@1.12.2-5,narutomodaddon@1.0.1,narutomod@0.3.0-beta,sharinganaddon@1.0,itemfilters@1.0.4.2,jei@4.16.1.1013,kabutoaddon@1.0.0,patchouli@1.0-23.6,sealsaddon@1.0,xaerominimap@24.6.1,mcp@9.42,jigendanretsu@1.0.0,xaeroworldmap@1.39.0,travelersbackpack@1.0.35,narutoorigin@1.11.91,inventoryhud@3.4.4,rinneganaddon@1.3,FML@8.0.99.99,jutsuaddon@1.0,xaerominimap_core@1.12.2-1.0,ftblib@5.4.7.2,waila@1.8.26,ratjaseyes@1.0.0,narutomodaddononero@1.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,anbubingobook@1.5.3
+[22:17:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:17:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: sebastt22[/172.27.152.199:52198] logged in with entity id 2314 at (-21.5, 64.0, 248.5)
+[22:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 joined the game
+[22:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has reached the goal [Shinobi]
+[22:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Granted the entire advancement 'narutomod:ninjaachievement' to sebastt22]
+[22:17:27] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[22:17:27] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,animalnet@v1.12.2 b3,ftbquests@1202.9.0.15,rerollthingy@1.0.0,torohud@1.12.2-5,narutomodaddon@1.0.1,narutomod@0.3.0-beta,sharinganaddon@1.0,itemfilters@1.0.4.2,jei@4.16.1.1013,kabutoaddon@1.0.0,patchouli@1.0-23.6,sealsaddon@1.0,xaerominimap@24.6.1,mcp@9.42,jigendanretsu@1.0.0,xaeroworldmap@1.39.0,travelersbackpack@1.0.35,narutoorigin@1.11.91,inventoryhud@3.4.4,rinneganaddon@1.3,FML@8.0.99.99,jutsuaddon@1.0,amongusmobs@3,xaerominimap_core@1.12.2-1.0,ftblib@5.4.7.2,waila@1.8.26,ratjaseyes@1.0.0,narutomodaddononero@1.0.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,anbubingobook@1.5.3
+[22:17:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:17:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pedrito2412[/172.27.0.129:63010] logged in with entity id 3397 at (-26.5, 67.0, 256.5)
+[22:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 joined the game
+[22:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 has reached the goal [Shinobi]
+[22:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Granted the entire advancement 'narutomod:ninjaachievement' to pedrito2412]
