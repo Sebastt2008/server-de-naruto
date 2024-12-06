@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: -0.5d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "a6cf05fd",
+		type: "item",
+		items: [{
+			item: "minecraft:beef"
+		}]
+	}],
+	rewards: [{
+		uid: "af6c00d7",
+		type: "item",
+		auto: "enabled",
+		item: "minecraft:cooked_beef"
+	}]
+}

@@ -3271,3 +3271,86 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 
 [22:48:14] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 240 times.
 
+[22:48:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:48:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:49:04] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 245 times.
+
+[22:49:04] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 245 times.
+
+[22:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Took Charging Blocked from sebastt22]
+[22:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Blocked (ID 37) * 0 to sebastt22 for 99999 seconds]
+[22:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:49:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:49:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:54] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 250 times.
+
+[22:49:54] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 250 times.
+
+[22:50:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:44] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 255 times.
+
+[22:50:44] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 255 times.
+
+[22:50:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:34] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 260 times.
+
+[22:51:34] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 260 times.
+
+[22:51:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has reached the goal [Scorch Release Acquired]
+[22:52:24] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 265 times.
+
+[22:52:24] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 265 times.
+
+[22:52:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:14] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 270 times.
+
+[22:53:14] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 270 times.
+
+[22:53:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:04] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 275 times.
+
+[22:54:04] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 275 times.
+
+[22:54:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:54] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 280 times.
+
+[22:54:54] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 280 times.
+
+[22:55:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:55:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:chakra_blocked' from sebastt22]
+[22:55:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:44] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 285 times.
+
+[22:55:44] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 285 times.
+
+[22:56:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:56:34] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 290 times.
+
+[22:56:34] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 290 times.
+
+[22:56:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:57:24] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 295 times.
+
+[22:57:24] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 295 times.
+
+[22:57:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:58:14] [Server thread/DEBUG] [FML]: The world 7c57cce9 (world) may have leaked: seen 300 times.
+
+[22:58:14] [Server thread/DEBUG] [FML]: The world 2ecb71a8 (world) may have leaked: seen 300 times.
+
