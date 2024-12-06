@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-06 23:00:18 +0000"
+    },
+    "done": true
+  },
   "narutomod:learned_1st_jutsu": {
     "criteria": {
       "learned_1st_jutsu": "2024-12-06 22:45:55 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "narutomod:bakuton_acquired": {
+    "criteria": {
+      "bakuton_acquired": "2024-12-06 23:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-06 22:48:19 +0000"
@@ -227,12 +239,6 @@
     },
     "done": true
   },
-  "narutomod:shakuton_acquired": {
-    "criteria": {
-      "shakuton_acquired": "2024-12-06 22:52:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 22:36:13 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-06 23:00:18 +0000"
     },
     "done": true
   },
@@ -359,9 +371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-06 23:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-06 22:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-12-06 23:00:18 +0000"
     },
     "done": true
   },
@@ -380,6 +404,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2024-12-06 23:00:28 +0000"
     },
     "done": true
   },
@@ -410,7 +440,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-06 22:17:18 +0000",
+      "extreme_hills_with_trees": "2024-12-06 23:04:35 +0000",
       "forest_hills": "2024-12-06 22:21:18 +0000",
+      "extreme_hills": "2024-12-06 23:04:26 +0000",
       "river": "2024-12-06 22:35:58 +0000"
     },
     "done": false
