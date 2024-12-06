@@ -436,3 +436,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [22:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Rogue Ninja
 [22:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Zombie
 [22:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Zombie
+[22:31:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Rogue Ninja
+[22:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has made the advancement [Stone Age]
+[22:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has made the advancement [Getting an Upgrade]
+[22:34:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Iwa Rogue
+[22:35:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: sebastt22 moved too quickly! -4.213472705130499,0.0,9.22686730275359
+[22:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has made the advancement [Acquire Hardware]
+[22:36:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pedrito2412 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[22:36:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 left the game
+[22:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [sebastt22: Set own game mode to Creative Mode]
+[22:37:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:ootsutsukiloot
+[22:37:55] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 561 advancements
+[22:37:55] [Server thread/INFO] [FTB Library]: Reloaded server in 0ms

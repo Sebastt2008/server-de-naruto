@@ -1,0 +1,22 @@
+{
+	title: "roka pls",
+	x: -2.5d,
+	y: -0.5d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	hide_dependency_lines: true,
+	optional: true,
+	tasks: [{
+		uid: "bdba9d60",
+		type: "kill",
+		entity: "minecraft:sheep",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "cbdef398",
+		type: "item",
+		item: "rerollthingy:mysteriousfruit"
+	}]
+}
