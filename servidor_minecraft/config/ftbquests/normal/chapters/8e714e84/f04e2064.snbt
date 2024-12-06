@@ -17,6 +17,7 @@
 	rewards: [{
 		uid: "cbdef398",
 		type: "item",
+		auto: "enabled",
 		item: "rerollthingy:mysteriousfruit"
 	}]
 }
