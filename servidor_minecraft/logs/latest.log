@@ -396,3 +396,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [22:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 joined the game
 [22:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 has reached the goal [Shinobi]
 [22:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Granted the entire advancement 'narutomod:ninjaachievement' to pedrito2412]
+[22:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was slain by sebastt22
+[22:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was killed by Iwa Rogue using ninjutsu
+[22:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was killed by Iwa Rogue using ninjutsu
+[22:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by pedrito2412
+[22:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was slain by Ninjabandit
+[22:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was killed by Uchiha Obito using ninjutsu
+[22:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 has made the advancement [Monster Hunter]
+[22:20:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was slain by Ninjabandit
+[22:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was slain by Ninjabandit
+[22:21:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was shot by Skeleton
+[22:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Uchiha Obito
+[22:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was blown up by Uchiha Obito
+[22:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Uchiha Obito
+[22:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Uchiha Obito
+[22:22:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: sebastt22 lost connection: Timed out
+[22:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 left the game
+[22:22:16] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:22:16] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,animalnet@v1.12.2 b3,ftbquests@1202.9.0.15,rerollthingy@1.0.0,torohud@1.12.2-5,narutomodaddon@1.0.1,narutomod@0.3.0-beta,sharinganaddon@1.0,itemfilters@1.0.4.2,jei@4.16.1.1013,kabutoaddon@1.0.0,patchouli@1.0-23.6,sealsaddon@1.0,xaerominimap@24.6.1,mcp@9.42,jigendanretsu@1.0.0,xaeroworldmap@1.39.0,travelersbackpack@1.0.35,narutoorigin@1.11.91,inventoryhud@3.4.4,rinneganaddon@1.3,FML@8.0.99.99,jutsuaddon@1.0,xaerominimap_core@1.12.2-1.0,ftblib@5.4.7.2,waila@1.8.26,ratjaseyes@1.0.0,narutomodaddononero@1.0.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,anbubingobook@1.5.3
+[22:22:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:22:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: sebastt22[/172.27.152.199:62683] logged in with entity id 10754 at (-25.5, 64.0, 251.5)
+[22:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 joined the game
+[22:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Ninjabandit
+[22:22:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Uchiha Obito
+[22:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 has made the advancement [Stone Age]
+[22:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 has made the advancement [Getting an Upgrade]
+[22:22:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped sebastt22
+[22:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [sebastt22: Set own game mode to Creative Mode]
+[22:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [sebastt22: Enchanting succeeded]
+[22:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 has made the advancement [Acquire Hardware]
+[22:26:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was slain by Rogue Ninja
+[22:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [sebastt22: Opped pedrito2412]
+[22:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [sebastt22: Set own game mode to Survival Mode]
+[22:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pedrito2412 was slain by Rogue Ninja
+[22:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 has made the advancement [Monster Hunter]
+[22:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [pedrito2412: Set own game mode to Spectator Mode]
+[22:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was killed by Rogue Ninja using ninjutsu
+[22:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Rogue Ninja
+[22:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Zombie
+[22:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sebastt22 was slain by Zombie
