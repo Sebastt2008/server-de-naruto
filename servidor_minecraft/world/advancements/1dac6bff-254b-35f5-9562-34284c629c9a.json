@@ -1,0 +1,157 @@
+{
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "anbubingobook:grant_book_on_first_join": {
+    "criteria": {
+      "grant_book_on_first_join": "2024-12-07 18:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2024-12-07 18:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "narutomod:achievementmedicalgenin": {
+    "criteria": {
+      "achievementmedicalgenin": "2024-12-07 18:09:57 +0000"
+    },
+    "done": true
+  },
+  "narutomodaddon:chakra_blocked": {
+    "criteria": {
+      "playerAttack": "2024-12-07 18:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-12-07 18:12:10 +0000",
+      "plains": "2024-12-07 18:10:06 +0000",
+      "taiga": "2024-12-07 18:07:03 +0000",
+      "taiga_hills": "2024-12-07 18:12:12 +0000",
+      "roofed_forest": "2024-12-07 18:07:35 +0000",
+      "river": "2024-12-07 18:07:26 +0000"
+    },
+    "done": false
+  },
+  "narutomod:ninjaachievement": {
+    "criteria": {
+      "ninjaachievement": "2024-12-07 18:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-12-07 18:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-12-07 18:07:25 +0000"
+    },
+    "done": true
+  },
+  "narutomodaddon:init": {
+    "criteria": {
+      "ninjutsuinit": "2024-12-07 18:07:03 +0000"
+    },
+    "done": true
+  },
+  "narutomod:sharinganopened": {
+    "criteria": {
+      "sharinganopened": "2024-12-07 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-07 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-07 18:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-12-07 18:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-12-07 18:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-12-07 18:07:25 +0000"
+    },
+    "done": true
+  }
+}
