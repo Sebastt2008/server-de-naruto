@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	optional: true,
+	tasks: [{
+		uid: "db41d830",
+		type: "kill",
+		entity: "minecraft:sheep",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "4fd7e4e4",
+		type: "item",
+		auto: "enabled",
+		item: "rerollthingy:mysteriousfruit"
+	}]
+}

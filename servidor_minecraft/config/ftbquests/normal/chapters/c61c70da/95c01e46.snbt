@@ -1,0 +1,56 @@
+{
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "8d12350d",
+		type: "kill",
+		title: "Se un pididi",
+		icon: {
+			id: "narutomod:ninjutsu",
+			tag: {
+				OwnerIdKeyMost: -6026071073313311301L,
+				OwnerIdKeyLeast: -5996433073138835006L,
+				display: {
+					Name: "Ninjutsu (sebastt22)"
+				},
+				JutsuExperienceMapKey: [I;
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				JutsuCDMapKey5: -1L,
+				JutsuCDMapKey6: -1L,
+				JutsuCDMapKey3: -1L,
+				JutsuCDMapKey4: -1L,
+				JutsuCDMapKey1: -1L,
+				JutsuCDMapKey2: -1L,
+				JutsuCDMapKey0: -1L,
+				JutsuCDMapKey9: -1L,
+				JutsuCDMapKey7: -1L,
+				JutsuCDMapKey8: -1L
+			}
+		},
+		entity: "kabutoaddon:ninjabandit",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "61d21027",
+		type: "item",
+		auto: "enabled",
+		item: "narutomod:kunai"
+	},
+	{
+		uid: "7be5fe96",
+		type: "item",
+		auto: "enabled",
+		item: "narutomod:shuriken"
+	}]
+}

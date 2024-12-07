@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "a058f0d5",
+		type: "kill",
+		entity: "minecraft:cow",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "118f4204",
+		type: "item",
+		auto: "enabled",
+		item: "rerollthingy:mysteriousfruit"
+	}]
+}

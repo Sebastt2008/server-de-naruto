@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "4992cb5f",
+		type: "item",
+		items: [{
+			item: "minecraft:mutton"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "08f29604",
+		type: "item",
+		auto: "enabled",
+		item: "minecraft:cooked_mutton",
+		count: 5
+	}]
+}

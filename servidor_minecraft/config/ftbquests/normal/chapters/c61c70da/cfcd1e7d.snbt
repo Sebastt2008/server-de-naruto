@@ -1,0 +1,20 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "7a1e1ab2",
+		type: "item",
+		items: [{
+			item: "minecraft:porkchop"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "54e03cc2",
+		type: "item",
+		item: "minecraft:cooked_porkchop",
+		count: 5
+	}]
+}

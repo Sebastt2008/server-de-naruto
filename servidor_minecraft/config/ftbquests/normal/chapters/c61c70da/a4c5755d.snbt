@@ -1,0 +1,18 @@
+{
+	icon: "travelersbackpack:travelers_backpack 1 8",
+	x: 0.0d,
+	y: 2.0d,
+	optional: true,
+	tasks: [{
+		uid: "41aa0c05",
+		type: "kill",
+		title: "mochila mochila",
+		entity: "kabutoaddon:s_rank_missing_ninja",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "391a77ad",
+		type: "item",
+		item: "travelersbackpack:travelers_backpack 1 8"
+	}]
+}

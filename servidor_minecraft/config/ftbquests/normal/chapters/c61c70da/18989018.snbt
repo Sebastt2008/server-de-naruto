@@ -1,0 +1,31 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "68cbc257",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "wool",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any wool"
+				}
+			}
+		}],
+		count: 40L
+	}],
+	rewards: [{
+		uid: "d0ee522f",
+		type: "item",
+		auto: "enabled",
+		item: "rerollthingy:mysteriousfruit"
+	}]
+}
